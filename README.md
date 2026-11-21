@@ -104,3 +104,7 @@ tick 内部拆解 (net.minecraft.server.MinecraftServer.m_5705_ = 87.39 s)
     DedicatedServer.m_5703_                           81.73 s   93.5%
     ForgeEventFactory.onPreServerTick                  3.09 s    3.5%
 ```
+
+## License
+
+[MIT](LICENSE) © 2026 TeasOfficial
